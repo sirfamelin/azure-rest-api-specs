@@ -3754,7 +3754,10 @@
             },
             "Create a VM with Uefi Settings of secureBoot and vTPM.": {
               "$ref": "./examples/CreateAVmWithUefiSettings.json"
-            }
+            },
+            "Create a scale set with Uefi Settings of secureBoot and vTPM.": {
+              "$ref": "./examples/CreateAScaleSetWithUefiSettings.json"
+            }	          }
           }
         },
         "patch": {
